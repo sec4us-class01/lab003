@@ -8,7 +8,7 @@ on:
 
 permissions:
   contents: read
-  actions: write # Necessário para upload de artefatos
+  actions: write # Necessário para upload de artefatos teste
 
 jobs:
   build-package:
