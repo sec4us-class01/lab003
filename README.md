@@ -16,7 +16,7 @@ O administrador do sistema garante que o ambiente é seguro pois:
 *   Nenhum segredo (Secrets) do GitHub é compartilhado com o Pull Request original.
 
 ## 🎯 Seu Objetivo
-O objetivo é obter a **Flag de Administrador**. 
+O objetivo é obter a **Flag de Administrador**. ?
 Sabemos que a flag reside em algum lugar do drive `C:\` do servidor Windows, em um diretório que o administrador costuma usar para armazenar chaves e configurações críticas.
 
 Você precisará de **dois passos**:
